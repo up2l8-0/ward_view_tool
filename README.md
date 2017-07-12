@@ -18,7 +18,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+WardViewTool::Renderer.copright 'Mark Ward', 'All rights reserved'
+```
 
 ## Development
 
